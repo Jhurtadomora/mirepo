@@ -1,4 +1,3 @@
-Tokio
 Roma
 París
 Londres
