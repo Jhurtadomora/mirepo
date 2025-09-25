@@ -2,3 +2,6 @@ Melon
 Sandia
 Naranja
 Fresa
+Piña
+Mango
+Durazno
