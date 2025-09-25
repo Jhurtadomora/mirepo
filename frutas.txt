@@ -1,2 +1,4 @@
 Melon
 Sandia
+Naranja
+Fresa
